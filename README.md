@@ -1,4 +1,4 @@
-<h1 align="center">hi 👋, I'm stanley</h1>
+<h1 align="center">hi 👋 im stanley</h1>
 <h3 align="center">ml</h3>
 
 - 🔭 I’m currently working on **ml**
