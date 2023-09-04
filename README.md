@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **deployment**
 
-- 🤝 I’m looking for help with **nlp,rl**
-
-- 💬 Ask me about **no**
+- 🤝 I’m looking for help with **transformers,rl**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
