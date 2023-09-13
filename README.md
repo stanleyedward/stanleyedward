@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **cinavize**
 
-- 🌱 I’m currently learning **deployment**
+- 🌱 I’m currently learning **gradio, deployment**
 
-- 🤝 I’m looking for help with **transformers,rl**
+- 🤝 I’m looking for help with **transformers, rl**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
