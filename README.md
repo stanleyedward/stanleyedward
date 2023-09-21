@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **cinavize**
 
-- 🌱 I’m currently learning **gradio, deployment**
+- 🌱 I’m currently learning **deployment**
 
 - 🤝 I’m looking for help with **transformers, rl**
 
