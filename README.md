@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **tensorboard**
 
-- 🤝 I’m looking for help with **transformers, rl**
+- 🤝 I’m looking for help with **cv, rl**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
