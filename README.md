@@ -5,7 +5,7 @@
 
 - 🌱 im currently learning **transformers**
 
-- 🤝 im looking for help with **cv**
+- 🤝 im looking for help with **computer vision**
 
 - 😃 fun fact: im so sane im so normal
 
