@@ -3,7 +3,7 @@
 
 - 🔭 im currently working on **cinavize**
 
-- 🌱 im currently learning **transformers**
+- 🌱 im currently learning **mlflow**
 
 - 🤝 im looking for help with **computer vision**
 
