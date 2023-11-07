@@ -1,11 +1,11 @@
 <h1 align="center">hi, im stanley</h1>
 <h3 align="center">🦕</h3>
 
-- 🔭 im currently working on **cinavize**
+- 🔭 im currently working on **me**
 
-- 🌱 im currently learning **mlflow**
+- 🌱 im currently learning **mlops**
 
-- 🤝 im looking for help with **computer vision**
+- 🤝 im looking for help with **docker**
 
 - 😃 fun fact: im so sane im so normal
 
