@@ -3,7 +3,7 @@
 
 - 🔭 im currently working on **me**
 
-- 🌱 im currently learning **lightning, polars, pydantic**
+- 🌱 im currently learning **comp vision/ graphics**
 
 - 🤝 im looking for help with **docker**
 
