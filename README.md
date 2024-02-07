@@ -11,8 +11,8 @@
 
 <h3 align="left">connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/stanley.dyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stanley.dyy" height="30" width="40" /></a>
-<a href="https://huggingface.co/stanleyedward" target="blank"><img align="center" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="stanleyedward" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/stanley.dyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stanley.dyy" height="30" width="40" /></a>
+<a href="https://huggingface.co/stanleyedward" target="blank"><img align="center" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="stanleyedward" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/stanley-edward" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stanley-edward" height="30" width="40" /></a>
 <a href="https://medium.com/@stanleyedward" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@stanleyedward" height="30" width="40" /></a>
 </p>
