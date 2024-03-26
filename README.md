@@ -1,11 +1,11 @@
 <h1 align="center">hi, im stanley</h1>
 <h3 align="center">🦕</h3>
 
-- 🔭 im currently working on **me**
+- 🔭 im currently working on **radiance fields**
 
 - 🌱 im currently learning **comp vision/ graphics**
 
-- 🤝 im looking for help with **docker**
+- 🤝 im looking for help with **Expected all tensors to be on the same device, but found at least two devices, cpu and cuda:0!**
 
 - 😃 fun fact: im so sane im so normal
 
