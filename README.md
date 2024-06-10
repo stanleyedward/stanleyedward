@@ -1,13 +1,13 @@
 <h1 align="center">hi, im stanley</h1>
 <h3 align="center">🦕</h3>
 
-- 🔭 im currently working on **radiance fields**
+- 🦕 currently working on **parallel_computing.cu**
 
-- 🌱 im currently learning **comp vision/ graphics**
+- 🦕 interested in **radiance fields / 3D scene representation**
 
-- 🤝 im looking for help with **Expected all tensors to be on the same device, but found at least two devices, cpu and cuda:0!**
+- 🦕 im looking for help with **Expected all tensors to be on the same device, but found at least two devices, cpu and cuda:0!**
 
-- 😃 fun fact: im so sane im so normal
+- 🦕 fun fact: im so sane im so normal
 
 <h3 align="left">connect with me:</h3>
 <p align="left">
