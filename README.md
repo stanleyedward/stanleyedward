@@ -33,6 +33,8 @@
 <img width="1" />
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/> </a> 
 <img width="1" />
+<a href="https://docs.nvidia.com/cuda/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nvidia/nvidia-icon.svg" alt="cuda" width="40" height="40"/> </a>
+<img width="1" />
 <!-- <a href="https://www.opengl.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" alt="opengl" width="40" height="40"/> </a> 
 <img width="1" /> -->
 <!--<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
