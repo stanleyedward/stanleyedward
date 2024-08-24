@@ -3,7 +3,7 @@
 
 - 🦕 currently working on **parallel_computing.cu**
 
-- 🦕 interested in **radiance fields / inverse graphics**
+- 🦕 interested in **3D vision / inverse graphics**
 
 <!-- - 🦕 im looking for help with **Expected all tensors to be on the same device, but found at least two devices, cpu and cuda:0!** -->
 
