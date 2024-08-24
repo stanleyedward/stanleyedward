@@ -3,9 +3,9 @@
 
 - 🦕 currently working on **parallel_computing.cu**
 
-- 🦕 interested in **radiance fields / 3D scene representation**
+- 🦕 interested in **radiance fields / inverse graphics**
 
-- 🦕 im looking for help with **Expected all tensors to be on the same device, but found at least two devices, cpu and cuda:0!**
+<!-- - 🦕 im looking for help with **Expected all tensors to be on the same device, but found at least two devices, cpu and cuda:0!** -->
 
 - 🦕 fun fact: im so sane im so normal
 
