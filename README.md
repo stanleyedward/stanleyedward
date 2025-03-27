@@ -1,26 +1,22 @@
 <h1 align="center">hi, im stanley</h1>
 <h3 align="center">🦕</h3>
 
-- 🦕 currently working on **parallel_computing.cu**
+- currently researching on **3d scene representations + HPC**
 
-- 🦕 interested in **3D vision / inverse graphics**
+<!-- - 🦕 fun fact: im so sane im so normal -->
 
-<!-- - 🦕 im looking for help with **Expected all tensors to be on the same device, but found at least two devices, cpu and cuda:0!** -->
+<!-- <h3 align="left">connect with me:</h3> -->
+<!-- <p align="left">
+<a href="https://linkedin.com/in/stanley-edward" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stanley-edward" height="30" width="40" /></a> -->
+<!-- <a href="https://medium.com/@stanleyedward" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@stanleyedward" height="30" width="40" /></a>
+</p> -->
 
-- 🦕 fun fact: im so sane im so normal
-
-<h3 align="left">connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/stanley-edward" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stanley-edward" height="30" width="40" /></a>
-<a href="https://medium.com/@stanleyedward" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@stanleyedward" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">languages and tools:</h3>
+<h3 align="left">stuff i use</h3>
 <p align="left"> 
-<a href="https://lightning.ai/docs/pytorch/stable/" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F58386951%3Fs%3D280%26v%3D4&f=1&nofb=1&ipt=936b694a62a98c4d5b0aca62530ad6baa1a49099651c10889b105fe02f9909fb&ipo=images" alt="lightning" width="40" height="40"/> </a> 
-<img width="1" />
-<a href="https://wandb.ai/site" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/wandbai/wandbai-icon.svg" alt="wandb" width="40" height="40"/> </a>
-<img width="1" />
+<!-- <a href="https://lightning.ai/docs/pytorch/stable/" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F58386951%3Fs%3D280%26v%3D4&f=1&nofb=1&ipt=936b694a62a98c4d5b0aca62530ad6baa1a49099651c10889b105fe02f9909fb&ipo=images" alt="lightning" width="40" height="40"/> </a> 
+<img width="1" /> -->
+<!-- <a href="https://wandb.ai/site" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/wandbai/wandbai-icon.svg" alt="wandb" width="40" height="40"/> </a>
+<img width="1" /> -->
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="bash" width="40" height="40"/> </a> 
 <img width="1" />
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
